@@ -12,13 +12,13 @@ heights both physically and mentally speaking, as long as I enjoy doing it obvio
 the ones where you are really passioned about. Recently participated in a programming competition, in which we got questions about datastructures and algorithms. 
 I miserably failed, but hey at least it was fun 😆.  
 
-From the last paragraph you might now think, that I sound like I am absolutely perfect, but you couldn't be further from the truth. I do have weaknesses and I am willing 
+From the last paragraph you might now think, that I sound like I am perfect, but you couldn't be further from the truth. I do have weaknesses and I am willing 
 to put my time and effort to improve upon it and hopefully learn from my past mistakes.
 
-As for my future, I am not quite sure yet, in which field I wan't to work for once I graduate from university. There are a good amount of topics, that interest me a lot!
+As for my future, I am not quite sure yet, in which field I wan't to work for once I graduate from university. There are plenty of fields, that I am interest in!
 A few examples are software engineering, AI and Cryptography. Time will only tell. 
 
-That is for me now. Defintely not the best ReadMe, but I hope you were able to get a rough overview about me. 🙂
+That is it for me now. Defintely not the best ReadMe, but I hope you were able to get a rough overview about me. 🙂
 
 Yours truly
 
