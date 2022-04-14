@@ -4,7 +4,7 @@ welcome to my Read me. I am Bardia and fairly new to GitHub. This account was cr
 project and I am glad to be a part of the GitHub community!
 
 As for myself, I am currently 21 years old and started programming a year before I enrolled into university. I have actually liked the tech area since I was a
-little kid, but never actually started with it until I watched a movie; I unfortunately can't recall the name 😥. Anyway, it blew me away- storytelling wise - 
+little kid, but never actually started with it until I watched a movie; I unfortunately can't recall the name 😥. Anyway, it blew me away storytelling wise 
 and has given me a new perspective in that field, which motivated to get into it. A decision I definetly don't regret 😄.
 
 I love doing calisthenics and playing table tennis. Actually thinking about it, I like pretty much a lot of stuff that puts me out of my comfort zone and pushes me to new 
