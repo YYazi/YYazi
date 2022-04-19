@@ -7,12 +7,10 @@ As for myself, I am currently 21 years old and started programming a year before
 little kid, but never actually started with it until I watched a movie; I unfortunately can't recall the name 😥. Anyway, it blew me away storytelling wise 
 and has given me a new perspective in that field, which motivated to get into it. A decision I definetly don't regret 😄.
 
-I love doing calisthenics and playing table tennis. Actually thinking about it, I like pretty much a lot of stuff that puts me out of my comfort zone and pushes me to new 
-heights both physically and mentally speaking, as long as I enjoy doing it obviously. Speaking of putting myself out of the comfort zone, I love competition, especially in areas you are really passionate about. Recently participated in a programming competition, in which we got questions about datastructures and algorithms. 
-I miserably failed, but hey at least it was fun 😆.  
+I love doing calisthenics and playing table tennis. Actually thinking about it, I like pretty much a lot of stuff that puts me out of my comfort zone and pushes me to new heights both physically and mentally speaking, as long as I enjoy doing it obviously. Speaking of putting myself out of the comfort zone, I love competition, especially in areas you are really passionate about. Recently participated in a programming competition, in which we got questions about datastructures and algorithms. 
+I miserably failed, but at least it was fun 😆.  
 
-From the last paragraph you might now think, that I sound like I am perfect, but you couldn't be further from the truth. I do have weaknesses and I am willing 
-to put my time and effort to improve upon it and hopefully learn from my past mistakes.
+On the last parapgraph I scratched over my hobbies and personal strengths, but I obviously have, like everyone else,weaknesses. However, unlike other people,who complain endlessly about how unfair certain things can be in life, I am willing to put my time and effort to improve upon my weaknesses and hopefully learn from it. Trust me, complainig over things you can't change is a waste of time and I had to learn it the hard way.
 
 As for my future, I am not quite sure yet, in which field I wan't to work for once I graduate from university. There are plenty of fields, that I am interested in!
 A few examples are software engineering, AI and Cryptography. Time will only tell. 
